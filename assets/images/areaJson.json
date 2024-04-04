@@ -1,0 +1,134 @@
+{
+  "1": {
+    "area": "BANASHANKARI",
+    "district": "BENGALURU SOUTH"
+  },
+  "2": {
+    "area": "BELLANTHUR",
+    "district": "BENGALURU SOUTH"
+  },
+  "3": {
+    "area": "BIDATHI RAMNAGAR",
+    "district": "BENGALURU SOUTH"
+  },
+  "4": {
+    "area": "BOMMANAHALLI",
+    "district": "BENGALURU SOUTH"
+  },
+  "5": {
+    "area": "BTM LAYOUT",
+    "district": "BENGALURU SOUTH"
+  },
+  "6": {
+    "area": "ELECTRONIC CITY PHASE 1",
+    "district": "BENGALURU SOUTH"
+  },
+  "7": {
+    "area": "ELECTRONIC CITY PHASE 2",
+    "district": "BENGALURU SOUTH"
+  },
+  "8": {
+    "area": "HAL MURUKESHPALAYA",
+    "district": "BENGALURU SOUTH"
+  },
+  "9": {
+    "area": "HSR LAYOUT",
+    "district": "BENGALURU SOUTH"
+  },
+  "10": {
+    "area": "JAYANAGAR",
+    "district": "BENGALURU SOUTH"
+  },
+  "11": {
+    "area": "KALASIPALYA",
+    "district": "BENGALURU SOUTH"
+  },
+  "12": {
+    "area": "KORAMANGALA",
+    "district": "BENGALURU SOUTH"
+  },
+  "13": {
+    "area": "MADIWALA",
+    "district": "BENGALURU SOUTH"
+  },
+  "14": {
+    "area": "MYSURU ROAD SATELITE",
+    "district": "BENGALURU SOUTH"
+  },
+  "15": {
+    "area": "NEELASANDRA",
+    "district": "BENGALURU SOUTH"
+  },
+  "16": {
+    "area": "SARJAPUR",
+    "district": "BENGALURU SOUTH"
+  },
+  "17": {
+    "area": "GORIPALYA",
+    "district": "BENGALURU NORTH"
+  },
+  "18": {
+    "area": "HEBBAL YELAHANKA",
+    "district": "BENGALURU NORTH"
+  },
+  "19": {
+    "area": "HEGDE NAGAR",
+    "district": "BENGALURU NORTH"
+  },
+  "20": {
+    "area": "KAMMANAHALLI",
+    "district": "BENGALURU NORTH"
+  },
+  "21": {
+    "area": "KR PURAM",
+    "district": "BENGALURU NORTH"
+  },
+  "22": {
+    "area": "MAJESTIC",
+    "district": "BENGALURU NORTH"
+  },
+  "23": {
+    "area": "MALLESWARAM",
+    "district": "BENGALURU NORTH"
+  },
+  "24": {
+    "area": "MARATHAHALLI",
+    "district": "BENGALURU NORTH"
+  },
+  "25": {
+    "area": "PEENIYA DASARAHALLI",
+    "district": "BENGALURU NORTH"
+  },
+  "26": {
+    "area": "RAMAMOORTHY NAGAR",
+    "district": "BENGALURU NORTH"
+  },
+  "27": {
+    "area": "RT NAGAR",
+    "district": "BENGALURU NORTH"
+  },
+  "28": {
+    "area": "SHIVAJI NAGAR",
+    "district": "BENGALURU NORTH"
+  },
+  "29": {
+    "area": "THANARY ROAD",
+    "district": "BENGALURU NORTH"
+  },
+  "30": {
+    "area": "ULSOOR",
+    "district": "BENGALURU NORTH"
+  },
+  "31": {
+    "area": "WHITEFIELD",
+    "district": "BENGALURU NORTH"
+  },
+  "32": {
+    "area": "YESWANTHPUR",
+    "district": "BENGALURU NORTH"
+  },
+  "x": {
+    "area": "TEST AREA",
+    "district": "TEST DISTRICT"
+  }
+}

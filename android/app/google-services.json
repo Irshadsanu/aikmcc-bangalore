@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "849965306415",
+    "firebase_url": "https://aikmcc-default-rtdb.firebaseio.com",
+    "project_id": "aikmcc",
+    "storage_bucket": "aikmcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849965306415:android:3dd9addf6a85864967acda",
+        "android_client_info": {
+          "package_name": "com.spine.aikmccbangalore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwJc709xKU8n_UKPmR54xWbknmMRDeKcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849965306415:android:31f82bcf1be51f1467acda",
+        "android_client_info": {
+          "package_name": "com.spine.aikmccbangaloreAdmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwJc709xKU8n_UKPmR54xWbknmMRDeKcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
